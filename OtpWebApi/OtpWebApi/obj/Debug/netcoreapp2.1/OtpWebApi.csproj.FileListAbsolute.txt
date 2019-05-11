@@ -1,0 +1,14 @@
+C:\Users\beezy\source\repos\OtpWebApi\OtpWebApi\bin\Debug\netcoreapp2.1\OtpWebApi.deps.json
+C:\Users\beezy\source\repos\OtpWebApi\OtpWebApi\bin\Debug\netcoreapp2.1\OtpWebApi.runtimeconfig.json
+C:\Users\beezy\source\repos\OtpWebApi\OtpWebApi\bin\Debug\netcoreapp2.1\OtpWebApi.runtimeconfig.dev.json
+C:\Users\beezy\source\repos\OtpWebApi\OtpWebApi\bin\Debug\netcoreapp2.1\OtpWebApi.dll
+C:\Users\beezy\source\repos\OtpWebApi\OtpWebApi\bin\Debug\netcoreapp2.1\OtpWebApi.pdb
+C:\Users\beezy\source\repos\OtpWebApi\OtpWebApi\obj\Debug\netcoreapp2.1\OtpWebApi.csprojAssemblyReference.cache
+C:\Users\beezy\source\repos\OtpWebApi\OtpWebApi\obj\Debug\netcoreapp2.1\OtpWebApi.csproj.CoreCompileInputs.cache
+C:\Users\beezy\source\repos\OtpWebApi\OtpWebApi\obj\Debug\netcoreapp2.1\OtpWebApi.AssemblyInfoInputs.cache
+C:\Users\beezy\source\repos\OtpWebApi\OtpWebApi\obj\Debug\netcoreapp2.1\OtpWebApi.AssemblyInfo.cs
+C:\Users\beezy\source\repos\OtpWebApi\OtpWebApi\obj\Debug\netcoreapp2.1\OtpWebApi.csproj.CopyComplete
+C:\Users\beezy\source\repos\OtpWebApi\OtpWebApi\obj\Debug\netcoreapp2.1\OtpWebApi.dll
+C:\Users\beezy\source\repos\OtpWebApi\OtpWebApi\obj\Debug\netcoreapp2.1\OtpWebApi.pdb
+C:\Users\beezy\source\repos\OtpWebApi\OtpWebApi\bin\Debug\netcoreapp2.1\TOTP_Framework1.dll
+C:\Users\beezy\source\repos\OtpWebApi\OtpWebApi\bin\Debug\netcoreapp2.1\TOTP_Framework1.pdb
